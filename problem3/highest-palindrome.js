@@ -7,3 +7,4 @@ function HighestPalindrome(number, k, i) {
 
 console.log(HighestPalindrome(3943, 1, 0));
 console.log(HighestPalindrome(932239, 2, 0));
+console.log(HighestPalindrome(2002, 2, 0));
